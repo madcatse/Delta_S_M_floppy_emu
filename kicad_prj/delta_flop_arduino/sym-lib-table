@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "delta_flop_pre")(type "KiCad")(uri "C:/Users/MadCat/Documents/GitHub/Delta_S_M_floppy_emu/kicad_prj/libs/delta_flop_pre.kicad_sym")(options "")(descr ""))
+)
