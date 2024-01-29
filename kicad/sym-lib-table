@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "floppy_emul-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/floppy_emul-eagle-import.kicad_sym")(options "")(descr ""))
-)
