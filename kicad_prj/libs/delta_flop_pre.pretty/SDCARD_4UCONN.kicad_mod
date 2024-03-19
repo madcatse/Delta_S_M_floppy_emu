@@ -83,4 +83,9 @@
     (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp 94d416a4-9aa9-48ae-a144-2ba3a67f0407))
   (pad "13" smd rect (at 21.15 14.75) (size 2 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp eb6275b7-b6bb-428b-a608-b651eb911588))
+  (model "C:/Users/MadCat/Documents/GitHub/Delta_S_M_floppy_emu/kicad_prj/libs/interno_sd.stp"
+    (offset (xyz 0.5 14.2 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
