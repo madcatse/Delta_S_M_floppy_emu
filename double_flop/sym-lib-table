@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Double_flop")(type "KiCad")(uri "${KIPRJMOD}/libs/Double_flop.kicad_sym")(options "")(descr ""))
+)
