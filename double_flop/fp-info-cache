@@ -1,4 +1,4 @@
-21569424980966847
+21581412954947873
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53326,12 +53326,61 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 Double_flop
+Devboard
+
+
+0
+105
+105
+Double_flop
 USB-C Power board
 
 
 0
 4
 4
+Double_flop_lib
+CR2013-MI2120
+CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990
+CR2013-MI2120 ILI9341 LCD Breakout
+0
+18
+14
+Double_flop_lib
+DIP-40_W15.24mm_Socket_LongPads
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+40
+40
+Double_flop_lib
+IDC-Header_2x17_P2.54mm_Vertical
+Through hole IDC box header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
+Through hole vertical IDC box header THT 2x17 2.54mm double row
+0
+34
+34
+Double_flop_lib
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Double_flop_lib
+PinSocket_2x08_P2.54mm_Vertical
+Through hole straight socket strip, 2x08, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x08 2.54mm double row
+0
+16
+16
+Double_flop_lib
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
