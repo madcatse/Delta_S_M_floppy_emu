@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "delta_flop_pre")(type "KiCad")(uri "C:/Users/MadCat/Documents/GitHub/Delta_S_M_floppy_emu/kicad_prj/libs/delta_flop_pre.kicad_sym")(options "")(descr ""))
+  (lib (name "floppy_symbols")(type "KiCad")(uri "${KIPRJMOD}/Libs/floppy_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "K561LN1")(type "KiCad")(uri "${KIPRJMOD}/Libs/K561LN1.kicad_sym")(options "")(descr ""))
+)
